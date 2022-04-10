@@ -1,2 +1,2 @@
 # bezier_surface
-Code generating animation of changing bezier surface between few geometries.
+Code generating animation of a bezier surface changing between few geometries.
